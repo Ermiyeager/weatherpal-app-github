@@ -1,0 +1,16 @@
+{
+  "name": "WeatherPal",
+  "short_name": "WeatherPal",
+  "description": "A cozy pixel-art weather buddy that dresses for the real weather.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#191D2B",
+  "theme_color": "#191D2B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
